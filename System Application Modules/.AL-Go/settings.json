@@ -8,5 +8,7 @@
     ],
     "enableAppSourceCop": false,
     "enablePerTenantExtensionCop":  false,
-    "doNotBuildTests": true
+    "doNotBuildTests": true,
+    "doNotPublishApps": true,
+    "UseCompilerFolder": true
 }
